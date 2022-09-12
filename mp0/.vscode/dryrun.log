@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/limjen/Documents/Fall2022/cs340/jylim3/mp0'
+g++-11 -g  -x c -W -Wall -Wno-pointer-sign -W -Wall -Wno-pointer-sign main.c -c -o main.o
+g++-11 -g  -x c -W -Wall -Wno-pointer-sign -W -Wall -Wno-pointer-sign gif.c -c -o gif.o
+g++-11 -g  main.o gif.o -o main
+make: Leaving directory `/Users/limjen/Documents/Fall2022/cs340/jylim3/mp0'
+ 

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "c",
+        "locale": "c",
+        "system_error": "c",
+        "future": "c"
+    }
+}
