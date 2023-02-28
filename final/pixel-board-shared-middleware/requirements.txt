@@ -1,0 +1,10 @@
+eventlet
+flask
+flask_socketio
+gevent
+gevent-websocket
+pymongo
+python-dotenv
+requests
+numpy
+Pillow
